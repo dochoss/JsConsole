@@ -1,5 +1,5 @@
 # JsConsole
-Javascript console library for Blazor projects.  Depends on Microsoft.JSInterop
+Javascript console library for server-side Blazor projects.  Depends on Microsoft.JSInterop
 
 # Usage
 Available as a NuGet package.
